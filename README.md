@@ -1,6 +1,6 @@
 # Mega-Conky
 
-![screenshot](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/Pictures/mega-conky_final.png)
+![screenshot](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/Pictures/Mega-Conky-Final.png)
 > Awsome no?
 
 ### Installation
