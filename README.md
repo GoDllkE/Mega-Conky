@@ -1,15 +1,13 @@
 # Mega-Conky
----
+
 <img src="https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/Pictures/Screenshots/Mega-Conky-Running-1.png" width="1280px">
 > Awsome no?
 
----
 ## Steps
 * [Installation](#installation)
 * [Dependecies](#dependencies)
 * [About](#about)
 
----
 ## Installation
 ### Easy way
 - Download the Mega-conky folder and the install.sh
@@ -25,7 +23,6 @@ OR
 - Run the [start-conky.sh](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/start-conky.sh) inside Mega-Conky folder and...
 - See your desktop getting badass.
  
----
 ## Dependencies
 ### Conky with lua support
  For now, i can say only for Arch linux users because it's the only system i tested until now. But only need a conky with lua support. For arch linux users, the [conky-lua](https://aur.archlinux.org/packages/conky-lua/) will be enough to run it. To download it, just type:
@@ -39,6 +36,5 @@ OR
  All this should do the trick.
  For more information about conky for arch linux, see the ArchWiki about conky, here [Conky - ArchWiki](https://wiki.archlinux.org/index.php/conky).
  
-
 ## About   
  For more details you can read [readme file](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/readme-info.txt) inside the Mega-Conky folder for details like detailed informations of instalation steps, some bug-fixes and tricks to make this conky lookgs a lot more badass.
