@@ -116,7 +116,7 @@ ${goto 918}${voffset 0}${time %A}
 
 ${goto 923}${voffset 2}${color grey}${font Ubuntu:size=20}${top name 1}${font}${color}
 ${goto 931}is using${top cpu 1}% CPU
-${goto 945}and ${top mem_res 1} of RAM
+${goto 947}and ${top mem_res 1} of RAM
 ${goto 931}${voffset 10}${top name 2} ${top cpu 2}%, ${top mem_res 2}
 ${goto 932}${top name 3} ${top cpu 3}%, ${top mem_res 3}
 ${goto 933}${top name 4} ${top cpu 4}%, ${top mem_res 4}
