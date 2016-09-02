@@ -1,22 +1,23 @@
 # Mega-Conky
 
- ![screenshot](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/Pictures/Mega-Conky-Desktop.png)
- ![screenshot](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/Pictures/Mega-Conky-Wireless.png)
+ <img src="https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/Pictures/Mega-Conky-Desktop.png" width="600px">
+ 
+<img src="https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/Pictures/Mega-Conky-Wireless.png" width="600px">
 -> Awsome no?
 
 ### Installation
-    - Download the Mega-conky folder and the install.sh
-    - Install conky with lua support (see below)
-    - Run [install.sh](https://github.com/GoDllkE/Mega-Conky/blob/master/install.sh)
-    - Enjoy the conky :D
+- Download the Mega-conky folder and the install.sh
+- Install conky with lua support (see below)
+- Run [install.sh](https://github.com/GoDllkE/Mega-Conky/blob/master/install.sh)
+- Enjoy the conky :D
      
-    OR
+OR
     
-    - Clone this repo https://github.com/GoDllkE/Mega-Conky.git
-    - Copy everything to .conky folder inside your home (should be like $HOME/.conky/Mega-Conky)
-    - (Optional) Change line 392 from [script.lua](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/Scripts/script.lua), changing 'user' to you username (keep absolute path to not bug it).
-    - Run the [start-conky.sh](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/start-conky.sh) inside Mega-Conky folder and see your desktop getting badass haha.
-    - Enjoy the conky :D
+- Clone this repo https://github.com/GoDllkE/Mega-Conky.git
+- Copy everything to .conky folder inside your home (should be like $HOME/.conky/Mega-Conky)
+- (Optional) Change line 392 from [script.lua](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/Scripts/script.lua), changing 'user' to you username (keep absolute path to not bug it).
+- Run the [start-conky.sh](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/start-conky.sh) inside Mega-Conky folder and see your desktop getting badass haha.
+- Enjoy the conky :D
     
 ### Conky with lua support
     For now, i can say only for Arch linux users because it's the only system i tested until now. Need a conky with lua support. 
