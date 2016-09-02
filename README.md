@@ -1,6 +1,6 @@
 # Mega-Conky
 
-<img src="https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/Pictures/Screenshots/Mega-Conky-Running-1.png" width="1280px">
+<img src="https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/Pictures/Screenshots/Mega-Conky-Running.png" width="1280px">
 > Awsome no?
 
 ## Steps
