@@ -41,9 +41,9 @@ conky.config = {
     font = 'Aller:Bold:size=10',
     xftalpha = 0.5,
 
-    default_color = 'cccccc',
+    default_color = 'CCCCCC',
     color1='888888',
-    color2='666666',
+    color2='777777',
 
     lua_load ./Scripts/script.lua 
     lua_draw_hook_pre ring_stats
