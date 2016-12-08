@@ -37,4 +37,4 @@ OR
  For more information about conky for arch linux, see the ArchWiki about conky, here [Conky - ArchWiki](https://wiki.archlinux.org/index.php/conky).
  
 ## About   
- For more details you can read [readme file](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/readme-info.txt) inside the Mega-Conky folder for details like detailed informations of instalation steps, some bug-fixes and tricks to make this conky lookgs a lot more badass.
+ For more details you can read [readme file](https://github.com/GoDllkE/Mega-Conky/blob/master/Mega-Conky/readme-info.txt) inside the Mega-Conky folder for informations of instalation steps, some bug-fixes and tricks to make this conky looks a lot more badass.
